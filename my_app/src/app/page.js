@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import imagen from '/Users/Walter/Documents/React Programas/clase-08/1C-2023-Clase-08-1/DOC/imagen.png'
 import styles from './page.module.css'
 
 export default function Home() {
